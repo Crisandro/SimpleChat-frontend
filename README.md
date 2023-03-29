@@ -1,21 +1,29 @@
 # Simple Chat App
 
-### [Online Demo](https://react-chatapp-frontend.herokuapp.com)
-
-As the Demo is hosted on a free Heroku account, the servers its hosted on enter ‘sleep mode’ when not in use. If you notice a delay, please allow a few seconds for the servers to wake up.
-
-
 ### About:
 
-This is a real-time chat application built using React (Create React App on the frontend) and NodeJS/Express Backend.
+This is a real-time chat application built using React, React on the frontend with MUI and NodeJS/Express Backend. I also added a mysql for the database.
+Note that the database being used is free and it has some limitations and is not recomended for production use except for testing.
+It also requires internet to be used to connect from the database online.
+Moreover, the app is not yet deployed online because it still have some limitation.
 
-Users are able message other users in real-time.
+Users are able to login and message other users in real-time.
+it uses cookies, so that the user is still logged in after refresh
+
+### Features:
+*	Login and account functionality
+*	Contact List 
+*	Chat history
+*	Chat composer 
+
 
 ### Tech Stack:
 
 * NodeJS/Express
+* Session
 * React (Create React App)
-* mysql
+* MUI
+* mysql (PHPMyAdmin from db4free.net) 
 * SASS
 
 ## Software 
