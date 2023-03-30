@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SimpleChat-frontend/static/css/main.103cbe44.css",
-    "main.js": "/SimpleChat-frontend/static/js/main.d58efdd6.js",
+    "main.js": "/SimpleChat-frontend/static/js/main.422db85d.js",
     "index.html": "/SimpleChat-frontend/index.html",
     "main.103cbe44.css.map": "/SimpleChat-frontend/static/css/main.103cbe44.css.map",
-    "main.d58efdd6.js.map": "/SimpleChat-frontend/static/js/main.d58efdd6.js.map"
+    "main.422db85d.js.map": "/SimpleChat-frontend/static/js/main.422db85d.js.map"
   },
   "entrypoints": [
     "static/css/main.103cbe44.css",
-    "static/js/main.d58efdd6.js"
+    "static/js/main.422db85d.js"
   ]
 }
